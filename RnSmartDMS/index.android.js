@@ -2,8 +2,7 @@ import React, { Component } from 'react';
 import {
   AppRegistry
 } from 'react-native';
-import App from './src01/app';
-
+import App from './src02/app';
 export default class RnSmartDMS extends Component {
   render() {
     return (
